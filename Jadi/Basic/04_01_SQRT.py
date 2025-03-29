@@ -1,7 +1,7 @@
 from math import sqrt, floor
 
 number = int(input())
-mylist = []
+mylist = list()
 
 for i in range(number):
     userinput = int(input())
